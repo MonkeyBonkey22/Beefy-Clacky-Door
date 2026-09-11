@@ -13,8 +13,13 @@ A clicky-clacky door remix with thicker walls and larger hardware.
  - "Beefier" (more material all around)
  - 5mm gap between door and frame (instead of 3mm)
 
-## Printing
+## Printing / Assembly Notes
  - There is an STL file with all of the required printed parts in the correct orientation.
+ - Make sure to install all the magnets with the correct polarity.
+
+## What door should I use?
+ - Any 2020 extrusion based door should work.
+  - You can use the door from the original Clicky Clacky door.
 
 ## BOM 
 | Qty | Part | Purpose / Notes |
