@@ -2,7 +2,7 @@
 A clicky-clacky door remix with thicker walls and larger hardware.
 
  >[!WARNING]
->**Compatibility:** This remix is primarily designed for printers using 4040 vertical extrusions. It is not drop-in compatible with stock Voron Trident/2.4 panels without modification.
+>**Compatibility:** This remix is primarily designed for printers using 4040 vertical extrusions. It is not drop-in compatible with stock Voron Trident/2.4 panels without modification. (See below)
 
 ## What's changed?
  - All mounting hardware is now M5 (instead of M3)
