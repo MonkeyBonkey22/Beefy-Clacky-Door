@@ -5,7 +5,7 @@ A clicky-clacky door remix with thicker walls and larger hardware.
 >**Compatibility:**
 > - This door is designed around printers with 4040 vertical extrusions. The hinge geometry assumes this extra clearance.    
 >   - The hinges will collide with stock Voron Trident/2.4 panels, and there is no panel clip built into the latch.
->      - It can work with a stock Voron if you make 2 small cutouts for the hinges into the side panel.     
+>   - It can work with a stock Voron if you make 2 small cutouts for the hinges into the side panel.     
 
 ## What's changed?
  - All mounting hardware is now M5 (instead of M3)
