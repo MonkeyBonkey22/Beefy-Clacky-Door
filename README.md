@@ -15,6 +15,7 @@ A clicky-clacky door remix with thicker walls and larger hardware.
 
 ## Printing / Assembly Notes
  - There is an STL file with all of the required printed parts in the correct orientation.
+ - The "latch hinge male" part requires support.
  - Make sure to install all the magnets with the correct polarity.
 
 ## What door should I use?
