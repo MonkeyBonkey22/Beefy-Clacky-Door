@@ -28,6 +28,7 @@ A clicky-clacky door remix with thicker walls and larger hardware.
 |----:|------|-----------------|
 | 10 | 10x3mm Magnet | - |
 | 14 | M5x12 SHCS | - |
+| 14 | M5 T-Nuts | - |
 | 2 | M3x12 SHCS | Handle stopper |
 | 6| ID5 OD7 L8 Bushing| Split preferred |
 | 4 | M5x50 Pin | M5x45 also works |
