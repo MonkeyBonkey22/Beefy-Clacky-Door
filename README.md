@@ -14,7 +14,7 @@ A clicky-clacky door remix with thicker walls and larger hardware.
  - 5mm gap between door and frame (instead of 3mm)
 
 ## Printing / Assembly Notes
- - There is an STL file with all of the required printed parts in the correct orientation.
+ - Make sure to orient the STLs correctly.
  - The press fit holes have 0.1mm of clearance, keep that in mind. 
  - The "latch hinge male" part requires support.
  - Make sure to install all the magnets with the correct polarity.
